@@ -79,7 +79,7 @@ for pd_service_id in pd_service_ids:
             },
             "webhook_object":
             {
-                "id": "P976SFP",
+                "id": pd_service_id,
                 "type": "service_reference"
             },
         }
