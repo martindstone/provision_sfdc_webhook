@@ -5,7 +5,7 @@ token = "YOUR_PD_REST_API_TOKEN"
 
 pd_webhook_name = "sfdc"
 
-# put the list of service IDs you cant to add webhooks to in pd_service_ids:
+# put the list of service IDs you want to add webhooks to in pd_service_ids:
 pd_service_ids = [
     "PXXXXXX",
     "PYYYYYY"
